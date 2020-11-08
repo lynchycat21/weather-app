@@ -1,0 +1,91 @@
+body {
+  font-family: "Peddana", serif;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+h1 {
+  font-size: 82px;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.row {
+  text-align: center;
+  padding: 45px;
+}
+footer {
+  font-size: 25px;
+}
+button {
+  border: none;
+  font-size: 24px;
+  margin: 0 auto;
+  display: block;
+  background: transparent;
+}
+.fa-sun {
+  color: rgb(224, 224, 13);
+  font-size: 30px;
+}
+.fa-cloud-sun {
+  color: grey;
+  font-size: 30px;
+}
+.sun {
+  font-size: 50px;
+}
+.weatherIcon1 {
+  border: 2px solid black;
+  padding: 18px;
+  margin: 15px;
+  border-radius: 4px;
+  position: relative;
+  left: 25px;
+}
+
+.weatherIcon2 {
+  border: 2px solid black;
+  padding: 18px;
+  margin: 15px;
+  border-radius: 4px;
+  position: relative;
+  left: 45px;
+}
+
+.weatherIcon3 {
+  border: 2px solid black;
+  padding: 18px;
+  margin: 15px;
+  border-radius: 4px;
+  position: relative;
+  left: 65px;
+}
+
+.weatherIcon4 {
+  border: 2px solid black;
+  padding: 18px;
+  margin: 15px;
+  border-radius: 4px;
+  position: relative;
+  left: 85px;
+}
+
+.weatherIcon5 {
+  border: 2px solid black;
+  padding: 18px;
+  margin: 15px;
+  border-radius: 4px;
+  position: relative;
+  left: 105px;
+}
+
+.weatherIcon6 {
+  border: 2px solid black;
+  padding: 18px;
+  margin: 15px;
+  border-radius: 4px;
+  position: relative;
+  left: 125px;
+}
